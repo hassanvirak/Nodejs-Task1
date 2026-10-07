@@ -1,0 +1,16 @@
+{
+  "name": "default-project",
+  "version": "1.0.0",
+  "description": "Run each task from inside its folder. Servers listen on http://localhost:3000 (stop with `Ctrl + C` before starting the next one).",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "nodemailer": "^10.0.15"
+  }
+}
